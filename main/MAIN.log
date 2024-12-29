@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  9 DEC 2024 11:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  29 DEC 2024 16:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2087,81 +2087,82 @@ Package hyperref Info: Link coloring OFF on input line 9.
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.18} (current compat level: 1.13).
 
-(../data/G11-FINAL-SEM1-001.tex
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 2.
+(../data/THPTQG-001.tex
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 1.
 
-
-(c:/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
+ (c:/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 2.
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 1.
 
-
-(c:/texlive/2024/texmf-dist/tex/latex/wasysym/uwasy.fd
+ (c:/texlive/2024/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (17.0716pt too wide) in paragraph at lines 2--9
- [] 
+Overfull \hbox (19.84521pt too wide) in paragraph at lines 1--9
+[][]
  []
 
-Output from handle ans going to ans/G11-FINAL-SEM1-001-TN.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--9
+
+ []
+
+Output from handle ans going to ans/THPTQG-001-TN.tex
 \ans@file=\write10
-\openout10 = `ans/G11-FINAL-SEM1-001-TN.tex'.
+\openout10 = `ans/THPTQG-001-TN.tex'.
+
+Output from handle ans going to ans/THPTQG-001-TF.tex
+\openout10 = `ans/THPTQG-001-TF.tex'.
 
 Package hyperref Info: bookmark level for unknown ex defaults to 0 on input lin
-e 17.
-[1
+e 21.
+<../figs/THPTQG-001-1.jpg, id=55, 387.4475pt x 241.40187pt>
+File: ../figs/THPTQG-001-1.jpg Graphic file (type jpg)
+<use ../figs/THPTQG-001-1.jpg>
+Package pdftex.def Info: ../figs/THPTQG-001-1.jpg  used on input line 24.
+(pdftex.def)             Requested size: 193.72327pt x 120.70064pt.
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<../figs/G11-FINAL-SEM1-001-1.jpg, id=89, 289.58188pt x 139.01938pt>
-File: ../figs/G11-FINAL-SEM1-001-1.jpg Graphic file (type jpg)
-<use ../figs/G11-FINAL-SEM1-001-1.jpg>
-Package pdftex.def Info: ../figs/G11-FINAL-SEM1-001-1.jpg  used on input line 1
-23.
-(pdftex.def)             Requested size: 115.83069pt x 55.60675pt.
-File: ../figs/G11-FINAL-SEM1-001-1.jpg Graphic file (type jpg)
-<use ../figs/G11-FINAL-SEM1-001-1.jpg>
-Package pdftex.def Info: ../figs/G11-FINAL-SEM1-001-1.jpg  used on input line 1
-23.
-(pdftex.def)             Requested size: 115.83069pt x 55.60675pt.
-<../figs/G11-FINAL-SEM1-001-2.jpg, id=90, 187.19937pt x 72.27pt>
-File: ../figs/G11-FINAL-SEM1-001-2.jpg Graphic file (type jpg)
-<use ../figs/G11-FINAL-SEM1-001-2.jpg>
-Package pdftex.def Info: ../figs/G11-FINAL-SEM1-001-2.jpg  used on input line 1
-54.
-(pdftex.def)             Requested size: 121.67815pt x 46.97493pt.
-File: ../figs/G11-FINAL-SEM1-001-2.jpg Graphic file (type jpg)
-<use ../figs/G11-FINAL-SEM1-001-2.jpg>
-Package pdftex.def Info: ../figs/G11-FINAL-SEM1-001-2.jpg  used on input line 1
-54.
-(pdftex.def)             Requested size: 121.67815pt x 46.97493pt.
-<../figs/G11-FINAL-SEM1-001-3.jpg, id=91, 289.58188pt x 158.5925pt>
-File: ../figs/G11-FINAL-SEM1-001-3.jpg Graphic file (type jpg)
-<use ../figs/G11-FINAL-SEM1-001-3.jpg>
-Package pdftex.def Info: ../figs/G11-FINAL-SEM1-001-3.jpg  used on input line 1
-95.
-(pdftex.def)             Requested size: 173.75046pt x 95.15622pt.
-File: ../figs/G11-FINAL-SEM1-001-3.jpg Graphic file (type jpg)
-<use ../figs/G11-FINAL-SEM1-001-3.jpg>
-Package pdftex.def Info: ../figs/G11-FINAL-SEM1-001-3.jpg  used on input line 1
-95.
-(pdftex.def)             Requested size: 173.75046pt x 95.15622pt.
+Overfull \hbox (4.04518pt too wide) in paragraph at lines 24--49
+ []|[]| 
+ []
 
-Output from handle ans going to ans/G11-FINAL-SEM1-001-TF.tex
-\openout10 = `ans/G11-FINAL-SEM1-001-TF.tex'.
+<../figs/THPTQG-001-2.jpg, id=56, 759.3168pt x 294.8616pt>
+File: ../figs/THPTQG-001-2.jpg Graphic file (type jpg)
+<use ../figs/THPTQG-001-2.jpg>
+Package pdftex.def Info: ../figs/THPTQG-001-2.jpg  used on input line 64.
+(pdftex.def)             Requested size: 303.72134pt x 117.94254pt.
+
+Underfull \vbox (badness 2941) has occurred while \output is active []
+
+ [1
+
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../figs/THPTQG-
+001-1.jpg>]
+<../figs/THPTQG-001-3.jpg, id=75, 596.4684pt x 279.9258pt>
+File: ../figs/THPTQG-001-3.jpg Graphic file (type jpg)
+<use ../figs/THPTQG-001-3.jpg>
+Package pdftex.def Info: ../figs/THPTQG-001-3.jpg  used on input line 77.
+(pdftex.def)             Requested size: 238.58313pt x 111.96832pt.
+File: ../figs/THPTQG-001-3.jpg Graphic file (type jpg)
+<use ../figs/THPTQG-001-3.jpg>
+Package pdftex.def Info: ../figs/THPTQG-001-3.jpg  used on input line 77.
+(pdftex.def)             Requested size: 238.58313pt x 111.96832pt.
+
+Output from handle ans going to ans/THPTQG-001-TL.tex
+\openout10 = `ans/THPTQG-001-TL.tex'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--211
+Underfull \hbox (badness 10000) in paragraph at lines 86--91
 
  []
 
@@ -2170,140 +2171,69 @@ pdfTeX warning (ext4): destination with the same identifier (name{ex.1}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.211 	M
-        ột chất điểm dao động điều hoà với tần số $\SI{2...
-[2 <../figs/G11-FINAL-SEM1-001-1.jpg> <../figs/G11-FINAL-SEM1-001-2.jpg> <../fi
-gs/G11-FINAL-SEM1-001-3.jpg>]
-pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.229 	X
-        ét tính đúng/sai của các phát biểu sau khi nói về ứng...
-
-pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.239 	M
-        ột người quan sát sóng nước trên mặt hồ thấy khoả...
-
-pdfTeX warning (ext4): destination with the same identifier (name{ex.4}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.254 	L
-        oa nghe nhạc là một thiết bị biến đổi tín hiệu đi�...
-Output from handle ans going to ans/G11-FINAL-SEM1-001-TL.tex
-\openout10 = `ans/G11-FINAL-SEM1-001-TL.tex'.
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{ex.1}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.273 	T
-        rong thí nghiệm Young về giao thoa ánh sáng, nguồn phát b�...
+l.91 	N
+       hằm chào mừng ngày lễ Quốc Khánh, Sở Văn hóa và Thể...
+[2 <../figs/THPTQG-001-2.jpg> <../figs/THPTQG-001-3.jpg>]
+<../figs/THPTQG-001-4.jpg, id=81, 726.5544pt x 289.5618pt>
+File: ../figs/THPTQG-001-4.jpg Graphic file (type jpg)
+<use ../figs/THPTQG-001-4.jpg>
+Package pdftex.def Info: ../figs/THPTQG-001-4.jpg  used on input line 100.
+(pdftex.def)             Requested size: 290.61661pt x 115.82266pt.
+File: ../figs/THPTQG-001-4.jpg Graphic file (type jpg)
+<use ../figs/THPTQG-001-4.jpg>
+Package pdftex.def Info: ../figs/THPTQG-001-4.jpg  used on input line 100.
+(pdftex.def)             Requested size: 290.61661pt x 115.82266pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.281 	X
-        ét sóng truyền trên mặt nước có bước sóng $\SI{48}{\c...
+l.103 	N
+        ếu dòng điện $I_2$ có cường độ $\SI{1.25}{\ampere}$, đ...
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.289 	T
-        rên một sợi dây đàn hồi AB dài $\SI{60}{\centi\meter}$ đ...
-[3]
-<../figs/G11-FINAL-SEM1-001-4.jpg, id=113, 265.49188pt x 142.03062pt>
-File: ../figs/G11-FINAL-SEM1-001-4.jpg Graphic file (type jpg)
-<use ../figs/G11-FINAL-SEM1-001-4.jpg>
-Package pdftex.def Info: ../figs/G11-FINAL-SEM1-001-4.jpg  used on input line 2
-98.
-(pdftex.def)             Requested size: 132.7456pt x 71.01512pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{ex.4}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.298 ...scale=0.5]{../figs/G11-FINAL-SEM1-001-4}}
-                                                  
-File: ../figs/G11-FINAL-SEM1-001-4.jpg Graphic file (type jpg)
-<use ../figs/G11-FINAL-SEM1-001-4.jpg>
-Package pdftex.def Info: ../figs/G11-FINAL-SEM1-001-4.jpg  used on input line 2
-98.
-(pdftex.def)             Requested size: 132.7456pt x 71.01512pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{ex.5}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.307 	T
-        hực hiện thí nghiệm giao thoa sóng trên mặt nước với...
-<../figs/G11-FINAL-SEM1-001-5.jpg, id=114, 202.25563pt x 80.3pt>
-File: ../figs/G11-FINAL-SEM1-001-5.jpg Graphic file (type jpg)
-<use ../figs/G11-FINAL-SEM1-001-5.jpg>
-Package pdftex.def Info: ../figs/G11-FINAL-SEM1-001-5.jpg  used on input line 3
-16.
-(pdftex.def)             Requested size: 101.12756pt x 40.14989pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{ex.6}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.316 ...scale=0.5]{../figs/G11-FINAL-SEM1-001-5}}
-                                                  
-File: ../figs/G11-FINAL-SEM1-001-5.jpg Graphic file (type jpg)
-<use ../figs/G11-FINAL-SEM1-001-5.jpg>
-Package pdftex.def Info: ../figs/G11-FINAL-SEM1-001-5.jpg  used on input line 3
-16.
-(pdftex.def)             Requested size: 101.12756pt x 40.14989pt.
-)
+l.111 	K
+        hi thay đổi dòng điện $I_1$ thành $-4I_2$, đồng thời th...
+) [3{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <../
+figs/THPTQG-001-4.jpg>]
 \tf@thm=\write11
 \openout11 = `MAIN.thm'.
 
- [4 <../figs/G11-FINAL-SEM1-001-4.jpg> <../figs/G11-FINAL-SEM1-001-5.jpg>] (./M
-AIN.aux)
+ (./MAIN.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-
-
-Package rerunfilecheck Warning: File `MAIN.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `MAIN.out':
-(rerunfilecheck)             Before: 4F7AC2A620D9E0E9FFC5EBDD221706DA;805
-(rerunfilecheck)             After:  A5442DE9F41E38BC43DB11816D8C5480;697.
+Package rerunfilecheck Info: File `MAIN.out' has not changed.
+(rerunfilecheck)             Checksum: A5442DE9F41E38BC43DB11816D8C5480;697.
  ) 
 Here is how much of TeX's memory you used:
- 72831 strings out of 474116
- 1820506 string characters out of 5747718
- 2722180 words of memory out of 5000000
- 94058 multiletter control sequences out of 15000+600000
- 569429 words of font info for 66 fonts, out of 8000000 for 9000
+ 72776 strings out of 474116
+ 1818855 string characters out of 5747718
+ 2714227 words of memory out of 5000000
+ 94016 multiletter control sequences out of 15000+600000
+ 571715 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,17n,121p,1198b,1234s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,22n,121p,1316b,1262s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/tex
 live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/
-symbols/msbm10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pfb
-><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/202
-4/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2024/texmf-dist/fonts/
-type1/vntex/vnr/vnti10.pfb>
-Output written on MAIN.pdf (4 pages, 278284 bytes).
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/ms
+am10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><
+c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pfb><c:/texlive/2024/te
+xmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/2024/texmf-dist/fonts/t
+ype1/vntex/vnr/vnr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnti
+10.pfb>
+Output written on MAIN.pdf (3 pages, 518677 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
- 115 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
- 230 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 152 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
 
